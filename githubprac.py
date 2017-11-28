@@ -9,7 +9,7 @@
 
 	difference = a - b
 
-	return there ain't no party like my nan's tea party
+	return difference
 
 
 # def division(a, b):
@@ -25,4 +25,9 @@
 
 	return product
 
-    what is going on here?
+
+# def multiplication(a, b):
+
+	product = a * b
+
+	return product
