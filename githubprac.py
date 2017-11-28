@@ -28,6 +28,6 @@
 
 # def multiplication(a, b):
 
-	product = a * b
+	product = C * D *X
 
 	return product
