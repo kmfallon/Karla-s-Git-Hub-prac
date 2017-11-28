@@ -9,7 +9,7 @@
 
 	difference = a - b
 
-	return what are you talking about?
+	return there ain't no party like my nan's tea party
 
 
 # def division(a, b):
