@@ -24,22 +24,3 @@
 	product = a * b
 
 	return subtraction
-
-
-# def multiplication(a, b):
-
-	product = C * D *X
-
-	return product
-
-# def subtraction(a, b):
-
-	difference = a - b
-
-	return difference
-
-# def subtraction(a, b):
-
-	difference = a - b
-
-	return difference
