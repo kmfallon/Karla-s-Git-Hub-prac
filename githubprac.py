@@ -21,6 +21,8 @@
 
 # def multiplication(a, b):
 
-# 	product = a * b
+	product = a * b
 
-# 	return product
+	return product
+
+    what is going on here?
