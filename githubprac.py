@@ -31,3 +31,15 @@
 	product = C * D *X
 
 	return product
+
+# def subtraction(a, b):
+
+	difference = a - b
+
+	return difference
+
+# def subtraction(a, b):
+
+	difference = a - b
+
+	return difference
