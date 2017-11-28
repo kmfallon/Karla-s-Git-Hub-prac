@@ -7,16 +7,16 @@
 
 # def subtraction(a, b):
 
-# 	difference = a - b
+	difference = a - b
 
-# 	return difference
+	return difference
 
 
 # def division(a, b):
 
-# 	quotient = a / b
+	quotient = a / b
 
-# 	return quotient
+	return quotient
 
 
 # def multiplication(a, b):
