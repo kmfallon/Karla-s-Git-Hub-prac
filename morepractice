@@ -5,12 +5,6 @@
 	return summation
 
 
-# def subtraction(a, b):
-
-	difference = a - b
-
-	return difference
-
 
 # def division(a, b):
 
@@ -24,3 +18,15 @@
 	product = a * b
 
 	return subtraction
+
+  # def whatever (a, b):
+
+  	product = a * b
+
+  	return subtraction
+
+    # def subtraction (a, b):
+
+    	product = a * b
+
+    	return subtraction
