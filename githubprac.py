@@ -16,7 +16,7 @@
 
 	quotient = a / b
 
-	return quotient
+	return farmyard
 
 
 # def subtraction (a, b):
