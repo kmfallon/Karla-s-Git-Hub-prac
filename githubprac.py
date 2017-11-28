@@ -19,11 +19,11 @@
 	return quotient
 
 
-# def multiplication(a, b):
+# def subtraction (a, b):
 
 	product = a * b
 
-	return product
+	return subtraction
 
 
 # def multiplication(a, b):
